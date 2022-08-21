@@ -1,2 +1,2 @@
 # project-socket-note
-Proyecto donde se crean notas con sockets
+Proyecto donde se crean un chat, publico y privado
